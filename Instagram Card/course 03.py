@@ -8,11 +8,12 @@ import requests
 import json
 
 #JSON_process
-image_instagram = "https://www.instagram.com/p/CCh4uKGJ_yb/?utm_source=ig_web_copy_link"
+image_instagram = "https://www.instagram.com/p/CCz2GHrJJW5/?utm_source=ig_web_copy_link"
 JSON_image_url = image_instagram.replace('utm_source=ig_web_copy_link', '__a=1', 1)
+print(JSON_image_url)
 req_image = requests.get(JSON_image_url)
-convert_1 = req_image.text
-load_image = json.loads(convert_1)
+print(req_image)
+load_image = req_image.json()
 main_link = load_image['graphql']['shortcode_media']['display_url']
 avatar_link = load_image['graphql']['shortcode_media']['owner']['profile_pic_url']
 user_name = load_image['graphql']['shortcode_media']['owner']['username']

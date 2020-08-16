@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb9c9dee-b127-442b-b886-2d2084ec036b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/card.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/card.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/course 03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/main_image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/materials/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/materials/avatar.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/trieuphong.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/trieuphong.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/trieuphong_course03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/trieuphong_course03.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +32,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="D:/gioitinh" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -85,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="course 03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondesign" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course 03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="decoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythondesign" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="C:/Python36/Lib/json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insert.py" />
+      <option name="SCRIPT_NAME" value="C:/Python36/Lib/json/decoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,10 +149,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.course 03" />
+        <item itemvalue="Python.decoder" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.image" />
-        <item itemvalue="Python.insert" />
       </list>
     </recent_temporary>
   </component>
@@ -184,50 +182,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585560384996">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1595262536290">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585560384996" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593504704860">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595262536290" />
+    <state width="1882" height="181" key="GridCell.Tab.0.bottom" timestamp="1595593483752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593504704860" />
-    <state width="1899" height="184" key="GridCell.Tab.0.bottom" timestamp="1590598245081">
+    <state width="1882" height="181" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595593483752" />
+    <state width="1882" height="181" key="GridCell.Tab.0.center" timestamp="1595593483752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590598245081" />
-    <state width="1899" height="184" key="GridCell.Tab.0.center" timestamp="1590598245081">
+    <state width="1882" height="181" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595593483752" />
+    <state width="1882" height="181" key="GridCell.Tab.0.left" timestamp="1595593483752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="184" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590598245081" />
-    <state width="1899" height="184" key="GridCell.Tab.0.left" timestamp="1590598245081">
+    <state width="1882" height="181" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595593483752" />
+    <state width="1882" height="181" key="GridCell.Tab.0.right" timestamp="1595593483752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="184" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590598245081" />
-    <state width="1899" height="184" key="GridCell.Tab.0.right" timestamp="1590598245081">
+    <state width="1882" height="181" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595593483752" />
+    <state width="1882" height="344" key="GridCell.Tab.1.bottom" timestamp="1595593373679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="184" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590598245081" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1586347343583">
+    <state width="1882" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595593373679" />
+    <state width="1882" height="344" key="GridCell.Tab.1.center" timestamp="1595593373679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586347343583" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1586347343583">
+    <state width="1882" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595593373679" />
+    <state width="1882" height="344" key="GridCell.Tab.1.left" timestamp="1595593373679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586347343583" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1586347343583">
+    <state width="1882" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595593373679" />
+    <state width="1882" height="344" key="GridCell.Tab.1.right" timestamp="1595593373679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586347343583" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1586347343583">
+    <state width="1882" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595593373679" />
+    <state x="714" y="130" key="SettingsEditor" timestamp="1595593763707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586347343583" />
-    <state x="714" y="130" key="SettingsEditor" timestamp="1590598189571">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="714" y="130" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590598189571" />
+    <state x="714" y="130" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595593763707" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1593504691598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
